@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 ## Junior fullstack developer
 
-- 🌱 I’m currently learning TypeScript, MySQL
 - 📫 How to reach me: lazurenko.svitlana.v@gmail.com
 
 ## Skills
