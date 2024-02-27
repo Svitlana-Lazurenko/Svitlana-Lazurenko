@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ## 🌐 Languages
 
-English - pre-intermediate | Ukrainian - native | Russian - native
+English - intermediate | Ukrainian - native | Russian - native
 
 
 
